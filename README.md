@@ -2,9 +2,7 @@
 This is an assignment for the Fundamental Software Engineer course from RevoU on 5 Feb 2024.
 
 # Screenshots
-![image](https://github.com/bagassandih/CelciusToFahrenheit/assets/70928493/b79d87a3-dd30-409f-aba8-7f80c22be1d2)
-![image](https://github.com/bagassandih/CelciusToFahrenheit/assets/70928493/3bb28078-96fb-47fb-a33f-a84069ebf0ab)
-![image](https://github.com/bagassandih/CelciusToFahrenheit/assets/70928493/aeccaa9c-35c4-4d61-a8ef-9ec96fc8b1dd)
+![image](https://github.com/bagassandih/CelciusToFahrenheit/assets/70928493/4c5b2f4f-20ff-4433-a81d-fd07e4cd42f2)
 
 ## Features
 - Displays the formula and its explanation
